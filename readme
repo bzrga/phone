@@ -1,0 +1,15 @@
+For Dev
+1) Web Deployment files are in "asset" folder, it contains xml and swf.
+2) Main Swf - VideoPhone.swf
+3) Config.xml contains path to audio, video and phone images. as well as dimension setting for video per different rotation frame.
+4) Facebook button calls javascript launchFB()
+	Twitter button calls javascript launchTwitter()
+	Explore button calls javascript explore() 
+
+For QA
+Current flow:
+	- VideoPhone.swf loads config xml first when started.
+	- Then preload 33 phone image pngs (3.5 MB), they are compressed and cropped for optimization.
+	- It then preload two audio files (2MB).  Once that finishes, it then start streaming the video and auto pause on the first frame.
+	- User can start the video by click play button or rotating the phone by dragging.
+	- Sound pans left/right depends on the angle of the phone.  Sound switch to low fi when back of the phone is revealed.  Video player moves/shrink as well with user intereaction.
