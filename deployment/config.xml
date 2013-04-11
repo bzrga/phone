@@ -18,23 +18,24 @@
     
     <!--Video Skew setting per frame, starting from 0 to 32, x is rotationX, y is rotationY, z is rotationZ, fv is field of view, px and py are x and y coordinates --> 
     <rotations>
-    	<rotation id="32" x="0" y="362" z="0" fv="55"  scaleX=".95" scaleY="1" px="-5" py="0"/>           
-     	<rotation id="31" x="0" y="374" z="0" fv="55"  scaleX=".91" scaleY="1" px="-13" py="0"/>     
-    	<rotation id="30" x="0" y="383" z="0" fv="55"  scaleX=".85" scaleY="1" px="-14" py="-2"/>        
-    	<rotation id="29" x="0" y="387" z="1" fv="55"  scaleX=".74" scaleY="1" px="-14" py="-3"/>     
-     	<rotation id="28" x="0" y="397" z="2" fv="55"  scaleX=".62" scaleY="1" px="-6" py="-2"/>    
-    	<rotation id="27" x="0" y="415" z="3" fv="55"  scaleX=".6" scaleY="1" px="-10" py="-3"/>     
-    	<rotation id="26" x="0" y="427" z="3" fv="55"  scaleX=".62" scaleY="1" px="0" py="-3"/>     
-    	<rotation id="25" x="0" y="443" z="3" fv="55"  scaleX=".62" scaleY="1" px="0" py="-3"/> 
-    	<rotation id="9" x="174" y="614" z="182" fv="32"  scaleX="1" scaleY="1.07" px="25" py="-3"/>
+        <rotation id="34" x="0" y="0" z="0" fv="55"  scaleX="1" scaleY="1" px="2" py="-1"/>           
+    	<rotation id="33" x="0" y="362" z="0" fv="55"  scaleX=".95" scaleY="1" px="-5" py="0"/>           
+     	<rotation id="32" x="0" y="374" z="0" fv="55"  scaleX=".91" scaleY="1" px="-13" py="0"/>     
+    	<rotation id="31" x="0" y="383" z="0" fv="55"  scaleX=".85" scaleY="1" px="-14" py="-2"/>        
+    	<rotation id="30" x="0" y="387" z="1" fv="55"  scaleX=".74" scaleY="1" px="-14" py="-3"/>     
+     	<rotation id="29" x="0" y="400" z="2" fv="55"  scaleX=".6" scaleY="1.03" px="-16" py="0"/>    
+    	<rotation id="28" x="0" y="415" z="3" fv="55"  scaleX=".6" scaleY="1" px="-10" py="-3"/>     
+    	<rotation id="27" x="0" y="432" z="3" fv="55"  scaleX=".62" scaleY="1" px="0" py="-3"/>     
+    	<rotation id="26" x="0" y="454" z="3" fv="55"  scaleX=".62" scaleY="1" px="0" py="-3"/> 
+    	<rotation id="9" x="174" y="621" z="183" fv="29"  scaleX="1.19" scaleY="1.03" px="22" py="-5"/>
     	<rotation id="8" x="174" y="597" z="182" fv="34"  scaleX=".61" scaleY="1.07" px="18" py="-3"/>
     	<rotation id="7" x="174" y="599" z="179" fv="26" scaleX="1" scaleY="1.08" px="25" py="-1"/>
     	<rotation id="6" x="174" y="578" z="181" fv="40"  scaleX=".8" scaleY="1.09" px="28" py="-3"/>
     	<rotation id="5" x="174" y="562" z="181" fv="55"  scaleX=".83" scaleY="1.08" px="28" py="-4"/>
     	<rotation id="4" x="174" y="551" z="180" fv="54"  scaleX=".89" scaleY="1.07" px="21" py="-4"/>
     	<rotation id="3" x="180" y="195" z="539" fv="55" scaleX=".97" scaleY="1" px="21" py="-2"/>
-    	<rotation id="2" x="179" y="185" z="540" fv="55" scaleX=".95" scaleY="1" px="15" py="0"/>
-       	<rotation id="1" x="179" y="196" z="540" fv="55" scaleX="1.05" scaleY="1.04" px="19" py="-4"/>
+    	<rotation id="2" x="179" y="185" z="540" fv="55" scaleX=".95" scaleY="1" px="13" py="0"/>
+       	<rotation id="1" x="179" y="194" z="540" fv="55" scaleX="1.05" scaleY="1.05" px="19" py="-3"/>
     	<rotation id="0" x="0" y="0" z="0" fv="55"  scaleX="1" scaleY="1" px="0" py="0"/>
     </rotations>
     
