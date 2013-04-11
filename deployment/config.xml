@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
-	<!-- images -->
+	<!-- images 
 	<images loc="https://fsharp.s3.amazonaws.com/htc/img/HTC_" start="1" total="33" type=".png"/>
+	-->
+	<images loc="../asset/new/HTC_" start="0" total="35" type=".png"/>
 	
 	<!-- video -->
    <loadermax name="videoListLoader" maxconnections="1">
