@@ -45,4 +45,5 @@
     <videoNormal scale="1" y="110"/>
     <!--Phone dimension and y coordinates setting when back of the phone is showing. -->
     <phoneSmall scale=".7" y="40"/>
+    <turnAroundTime value="41.5"/>
 </data>
